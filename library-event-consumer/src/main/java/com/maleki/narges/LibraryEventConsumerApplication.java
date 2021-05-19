@@ -1,4 +1,4 @@
-package com.maleki.narges.libraryeventconsumer;
+package com.maleki.narges;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

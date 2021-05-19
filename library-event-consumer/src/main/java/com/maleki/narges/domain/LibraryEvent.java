@@ -1,4 +1,4 @@
-package com.maleki.narges.libraryeventconsumer.domain;
+package com.maleki.narges.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
